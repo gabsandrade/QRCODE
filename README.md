@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/97044440/180903761-8e0c3954-f4d2-4f36-a260-c341ad822955.png)
+![image](https://user-images.githubusercontent.com/97044440/180903816-6f9f92bf-f671-4e85-b49f-cce80c37465b.png)
 <h1>QRCODE</h1>
 > Status: developed
 
